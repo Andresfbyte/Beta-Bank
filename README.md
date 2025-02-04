@@ -1,1 +1,2 @@
 # Beta-Bank
+The goal of this project is to create a demo and deploy a web application that allows users to interact with a dataset, such as car sale listings. The application will enable users to view, filter, and explore the data in an easy-to-use interface. To achieve this, a virtual environment in Python will be set up, the application will be developed using a web framework like Flask or Django, and finally, it will be deployed to the cloud to be publicly accessible through platforms like Heroku, AWS, or Google Cloud.
